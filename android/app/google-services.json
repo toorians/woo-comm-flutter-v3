@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "112587727411",
+    "project_id": "woocommerce-a7d37",
+    "storage_bucket": "woocommerce-a7d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112587727411:android:b7fd974893074ba9d0f946",
+        "android_client_info": {
+          "package_name": "com.mstoreapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112587727411-0lsfjkctigu8i1r75i6hlegl9ejdvh9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mstoreapp.app",
+            "certificate_hash": "26bd800916cd5f3316e3f71a5225667c5933b276"
+          }
+        },
+        {
+          "client_id": "112587727411-eih96lkc8c5oe5gpjkbnutvobssullvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJV0My2Q5z8mmCMTOoIby5BvfpcCg-P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112587727411-eih96lkc8c5oe5gpjkbnutvobssullvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112587727411-jenr1kr7t8vdi3ccqjcrnpps0mccmfqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mstoreapp.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112587727411:android:ef6d5ad9c0191ce7d0f946",
+        "android_client_info": {
+          "package_name": "com.mstoreapp.wooapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112587727411-eih96lkc8c5oe5gpjkbnutvobssullvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJV0My2Q5z8mmCMTOoIby5BvfpcCg-P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112587727411-eih96lkc8c5oe5gpjkbnutvobssullvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112587727411-jenr1kr7t8vdi3ccqjcrnpps0mccmfqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mstoreapp.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
